@@ -1,0 +1,22 @@
+{
+    "type":"A6-EC",
+    "params":
+    {
+        "C00.00":{
+            "index":0,
+            "subIndex":0,
+            "description":"Test",
+            "type":"U16",
+            "min":0,
+            "max":10
+        },
+        "C11.01":{
+            "index":11,
+            "subIndex":1,
+            "description":"Test",
+            "type":"U16",
+            "min":0,
+            "max":10
+        }
+    }
+}
